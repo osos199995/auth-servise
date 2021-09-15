@@ -1,0 +1,1 @@
+{"version":3,"file":"book-request.dto.js","sourceRoot":"","sources":["../../../../src/app/dto/requests/book-request.dto.ts"],"names":[],"mappings":";;;AAAA,yDAAwC;AAC3B,QAAA,oBAAoB,GAAG;IAChC,IAAI,EAAE,wBAAG,CAAC,MAAM,CAAC;QACb,KAAK,EAAE,wBAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;QAC9B,WAAW,EAAE,wBAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;KACvC,CAAC;CACL,CAAA"}
